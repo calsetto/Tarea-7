@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea7</string>
+    <string name="tab_text_1">Inicio</string>
+    <string name="tab_text_2">Registro</string>
+    <string name="tab_text_3">Contacto</string>
+    <string name="tab_text_4">Canciones</string>
+</resources>
